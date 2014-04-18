@@ -2,7 +2,8 @@
   "name": "core-field",
   "private": true,
   "dependencies": {
-    "core-icon": "Polymer/core-icon#master",
-    "core-layout": "Polymer/core-layout#master"
-  }
+    "core-icon": "Polymer/core-icon#0.2.3",
+    "core-layout": "Polymer/core-layout#0.2.3"
+  },
+  "version": "0.2.3"
 }
